@@ -55,9 +55,9 @@ http://iptv.tvfix.org/hls/finance2.m3u8
 http://iptv.tvfix.org/hls/financenhk.m3u8
 #EXTINF:-1 tvg-name="ViuTVᴴᴰ" tvg-logo="https://www.hkdtmb.com/png_logo/99.png" group-title="Viu",ViuTVᴴᴰ
 http://iptv.tvfix.org/hls/viutv.m3u8
-#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://www.hkdtmb.com/png_logo/99.png" group-title="Viu",,ViuTV
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://www.hkdtmb.com/png_logo/99.png" group-title="Viu",ViuTV
 http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
-#EXTINF:-1 tvg-name="ViuTV6" tvg-logo="https://www.hkdtmb.com/png_logo/96.png" group-title="Viu",,ViuTV6
+#EXTINF:-1 tvg-name="ViuTV6" tvg-logo="https://www.hkdtmb.com/png_logo/96.png" group-title="Viu",ViuTV6
 http://iptv.tvfix.org/hls/viutv6.m3u8
 #EXTINF:-1 tvg-name="Now新聞台" tvg-logo="http://livetv.dnsfor.me/logo/logo_04.png" group-title="Now",Now新聞台
 http://livetv.dnsfor.me:80/channel.4.m3u8
