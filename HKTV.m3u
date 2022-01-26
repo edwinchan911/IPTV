@@ -74,6 +74,16 @@ http://hkyx.love.sky-media.tk/test/index.php?id=38
 #EXTINF:-1,有線綜合娛樂台
 https://uc6.i-cable.com/liveJoemud_ts/_definst_/4-c0a864cc-1623762001-1623763081-0bdc7f704e291b3cc65f9ebc85a5a86b-8d93040f6672be2_8ab-03/Stream1/playlist.m3u8
 
+#EXTINF:-1 tvg-name="有線新聞台" tvg-logo="https://rb.gy/e83tun" group-title="Cable",有線新聞台
+http://livetv.dnsfor.me:80/channel.5.m3u8
+#EXTINF:-1 tvg-name="有線財經資訊台" tvg-logo="https://rb.gy/gxr0zk" group-title="Cable",有線財經資訊台
+http://livetv.dnsfor.me/channel.6.m3u8
+#EXTINF:-1 tvg-name="有線綜合娛樂台" tvg-logo="https://rb.gy/z4axvr" group-title="Cable",有線綜合娛樂台
+http://livetv.dnsfor.me/channel.7.m3u8
+#EXTINF:-1 group-title="香港頻道" tvg-id="YZB.HK" tvg-name="有線直播新聞台" tvg-logo="https://rb.gy/os4eh1" ,有線直播新聞台
+http://teslagram.com/live/channel_110.m3u8
+
+
 #EXTINF:-1 tvg-name="香港開電視" tvg-logo="https://www.hkdtmb.com/png_logo/77.png" group-title="Cable",香港開電視
 http://iptv.tvfix.org/hls/opentv.m3u8
 
