@@ -63,6 +63,8 @@ https://cdn.hkdtmb.com/hls/96/index.m3u8
 http://livetv.dnsfor.me:80/channel.4.m3u8
 #EXTINF:-1 tvg-name="Now直播台" tvg-logo="http://livetv.dnsfor.me/logo/logo_03.png" group-title="Now",Now直播台
 http://livetv.dnsfor.me:80/channel.3.m3u8
+#EXTINF:-1 tvg-name="Now Sports" tvg-logo="http://livetv.dnsfor.me/logo/logo_12.png" group-title="Now",Now Sports
+http://livetv.dnsfor.me:80/channel.12.m3u8
 #EXTINF:-1,有線新聞台
 http://hkyx.love.sky-media.tk/test/index.php?id=37
 #EXTINF:-1,有線直播新聞台
