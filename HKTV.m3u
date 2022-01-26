@@ -81,11 +81,11 @@ https://uc6.i-cable.com/liveJoemud_ts/_definst_/4-3b9423a2-1643187265-1643273845
 http://iptv.tvfix.org/hls/opentv.m3u8
 
 #EXTINF:0,WOWOW Cinema
-http://cdn-usa1-streaming.ani-box.com:1935/live/bs09.stream/playlist.m3u8
+http://193.160.32.112:9090/hstv.php?id=135
 #EXTINF:0,WOWOW Live
-http://cdn-usa1-streaming.ani-box.com:1935/live/bs08.stream/playlist.m3u8
+http://193.160.32.112:9090/hstv.php?id=134
 #EXTINF:0,WOWOW Prime
-http://cdn-usa1-streaming.ani-box.com:1935/live/bs07.stream/playlist.m3u8
+http://193.160.32.112:9090/hstv.php?id=133
 
 
 #EXTINF:-1,TVBS亞洲台
