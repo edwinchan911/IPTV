@@ -80,8 +80,8 @@ https://uc6.i-cable.com/liveJoemud_ts/_definst_/4-3b9423a2-1643186629-1643273209
 https://uc6.i-cable.com/liveJoemud_ts/_definst_/4-3b9423a2-1643186976-1643273556-2099cbcec02c41b91516808e3571c846-8d9e0ec4174a18f_938-03/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-name="有線綜合娛樂台" tvg-logo="https://rb.gy/z4axvr" group-title="Cable",有線綜合娛樂台
 http://livetv.dnsfor.me/channel.7.m3u8
-#EXTINF:-1 group-title="香港頻道" tvg-id="YZB.HK" tvg-name="有線直播新聞台" tvg-logo="https://rb.gy/os4eh1" ,有線直播新聞台
-http://teslagram.com/live/channel_110.m3u8
+#EXTINF:-1 tvg-name="有線直播台" tvg-logo="https://rb.gy/os4eh1" group-title="Cable",有線直播台
+https://uc6.i-cable.com/liveJoemud_ts/_definst_/4-3b9423a2-1643187265-1643273845-a6f16ddbbcd34039f2c02c3c45afd2fc-8d9e0eced8e9632_6be-03/Stream1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-name="香港開電視" tvg-logo="https://www.hkdtmb.com/png_logo/77.png" group-title="Cable",香港開電視
