@@ -80,6 +80,13 @@ https://uc6.i-cable.com/liveJoemud_ts/_definst_/4-3b9423a2-1643187265-1643273845
 #EXTINF:-1 tvg-name="香港開電視" tvg-logo="https://www.hkdtmb.com/png_logo/77.png" group-title="Cable",香港開電視
 http://iptv.tvfix.org/hls/opentv.m3u8
 
+#EXTINF:0,WOWOW Cinema
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs09.stream/playlist.m3u8
+#EXTINF:0,WOWOW Live
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs08.stream/playlist.m3u8
+#EXTINF:0,WOWOW Prime
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs07.stream/playlist.m3u8
+
 
 #EXTINF:-1,TVBS亞洲台
 http://iptv.tvfix.org/hls/tvbs.m3u8
