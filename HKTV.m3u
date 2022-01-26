@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,天映經典
+http://27.47.68.110:808/hls/62/index.m3u8
+
 #EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="[RTHK] 香港電台",港台電視31
 https://cdn.hkdtmb.com/hls/31/index.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="港台電視32" tvg-logo="https://www.hkdtmb.com/png_logo/32.png" group-title="[RTHK] 香港電台",港台電視32
