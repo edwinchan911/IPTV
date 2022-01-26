@@ -54,7 +54,7 @@ http://iptv.tvfix.org/hls/finance2.m3u8
 #EXTINF:-1,無線財經資訊台海外版
 http://iptv.tvfix.org/hls/financenhk.m3u8
 #EXTINF:-1,ViuTVᴴᴰ
-https://cdn.hkdtmb.com/hls/99/index.m3u8
+http://iptv.tvfix.org/hls/viutv.m3u8
 #EXTINF:-1,ViuTV
 http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 #EXTINF:-1,ViuTV6
