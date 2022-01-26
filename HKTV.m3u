@@ -29,9 +29,9 @@ https://cdn.hkdtmb.com/hls/99/index.m3u8
 #EXTINF:-1 tvg-id="96" tvg-name="ViuTV" tvg-logo="https://www.hkdtmb.com/png_logo/96.png" group-title="[Viu] 香港電視娛樂",ViuTV Six
 https://cdn.hkdtmb.com/hls/96/index.m3u8
 
-#EXTINF:-1 tvg-name="翡翠台(繁體)" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="無綫",翡翠台(繁體)
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="無綫",翡翠台(繁體)
 http://iptv.tvfix.org/hls/jade.m3u8
-#EXTINF:-1 tvg-name="翡翠台(簡體)" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="無綫",翡翠台(簡體)
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="無綫",翡翠台(簡體)
 http://iptv.tvfix.org/hls/jade2.m3u8
 #EXTINF:-1 tvg-name="翡翠台海外版(粵語)" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="無綫",翡翠台海外版(粵語)
 http://iptv.tvfix.org/hls/jadenhk.m3u8
