@@ -16,7 +16,7 @@ http://iptv.tvfix.org/hls/inews.m3u8
 #EXTINF:-1 tvg-id= tvg-name="明珠台" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="無綫",明珠台
 http://iptv.tvfix.org/hls/pearl_s1.m3u8
 #EXTINF:-1 tvg-id= tvg-name="明珠台(第2聲道)" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="無綫",明珠台 (粵語聲道)
-http://iptv.tvfix.org/hls/pearl2.m3u8
+http://iptv.tvfix.org/hls/pearl_v.m3u8
 #EXTINF:-1 tvg-id= tvg-name="無綫財經·資訊台" tvg-logo="https://www.hkdtmb.com/png_logo/85.png" group-title="無綫",無綫財經·資訊台
 http://iptv.tvfix.org/hls/finance.m3u8
 #EXTINF:-1 tvg-id= tvg-name="無線財經資訊台(第2聲道)" tvg-logo="https://www.hkdtmb.com/png_logo/85.png" group-title="無綫",無線財經資訊台(第2聲道)
@@ -139,3 +139,4 @@ https://cdn.hkdtmb.com/hls/85/index.m3u8
 https://cdn.hkdtmb.com/hls/99/index.m3u8
 #EXTINF:-1 tvg-id="96" tvg-name="ViuTV" tvg-logo="https://www.hkdtmb.com/png_logo/96.png" group-title="[Viu] 香港電視娛樂",ViuTV Six
 https://cdn.hkdtmb.com/hls/96/index.m3u8
+
