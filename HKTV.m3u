@@ -1,115 +1,113 @@
 #EXTM3U
-
-
-#EXTINF:-1 tvg-name="翡翠台(繁體)" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="無綫",翡翠台
+#EXTINF:-1 tvg-id= tvg-name="翡翠台(繁體)" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="無綫",翡翠台
 http://iptv.tvfix.org/hls/jade.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="無綫",翡翠台(簡體)
+#EXTINF:-1 tvg-id= tvg-name="翡翠台" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="無綫",翡翠台(簡體)
 http://iptv.tvfix.org/hls/jade2.m3u8
-#EXTINF:-1 tvg-name="翡翠台海外版(粵語)" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="無綫",翡翠台海外版(粵語)
+#EXTINF:-1 tvg-id= tvg-name="翡翠台海外版(粵語)" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="無綫",翡翠台海外版(粵語)
 http://iptv.tvfix.org/hls/jadenhk.m3u8
-#EXTINF:-1 tvg-name="翡翠台海外版(普通話)" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="無綫",翡翠台海外版(普通話)
+#EXTINF:-1 tvg-id= tvg-name="翡翠台海外版(普通話)" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="無綫",翡翠台海外版(普通話)
 http://iptv.tvfix.org/hls/jadenhk2.m3u8
-#EXTINF:-1 tvg-name="J2台" tvg-logo="https://www.hkdtmb.com/png_logo/82.png" group-title="無綫",J2
+#EXTINF:-1 tvg-id= tvg-name="J2台" tvg-logo="https://www.hkdtmb.com/png_logo/82.png" group-title="無綫",J2
 http://iptv.tvfix.org/hls/j2.m3u8
-#EXTINF:-1 tvg-name="J2(第2聲道)" tvg-logo="https://www.hkdtmb.com/png_logo/82.png" group-title="無綫",J2(第2聲道)
+#EXTINF:-1 tvg-id= tvg-name="J2(第2聲道)" tvg-logo="https://www.hkdtmb.com/png_logo/82.png" group-title="無綫",J2(第2聲道)
 http://iptv.tvfix.org/hls/j22.m3u8
-#EXTINF:-1 tvg-name="無綫新聞台" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="無綫",無綫新聞台
+#EXTINF:-1 tvg-id= tvg-name="無綫新聞台" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="無綫",無綫新聞台
 http://iptv.tvfix.org/hls/inews.m3u8
-#EXTINF:-1 tvg-id="84" tvg-name="明珠台" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="[TVB] 電視廣播",明珠台
-http://iptv.tvfix.org/hls/pearl.m3u8
-#EXTINF:-1 tvg-name="明珠台(第2聲道)" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="無綫",明珠台 (粵語聲道)
+#EXTINF:-1 tvg-id= tvg-name="明珠台" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="無綫",明珠台
+http://iptv.tvfix.org/hls/pearl_s1.m3u8
+#EXTINF:-1 tvg-id= tvg-name="明珠台(第2聲道)" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="無綫",明珠台 (粵語聲道)
 http://iptv.tvfix.org/hls/pearl2.m3u8
-#EXTINF:-1 tvg-name="無綫財經·資訊台" tvg-logo="https://www.hkdtmb.com/png_logo/85.png" group-title="無綫",無綫財經·資訊台
+#EXTINF:-1 tvg-id= tvg-name="無綫財經·資訊台" tvg-logo="https://www.hkdtmb.com/png_logo/85.png" group-title="無綫",無綫財經·資訊台
 http://iptv.tvfix.org/hls/finance.m3u8
-#EXTINF:-1 tvg-name="無線財經資訊台(第2聲道)" tvg-logo="https://www.hkdtmb.com/png_logo/85.png" group-title="無綫",無線財經資訊台(第2聲道)
+#EXTINF:-1 tvg-id= tvg-name="無線財經資訊台(第2聲道)" tvg-logo="https://www.hkdtmb.com/png_logo/85.png" group-title="無綫",無線財經資訊台(第2聲道)
 http://iptv.tvfix.org/hls/finance2.m3u8
-#EXTINF:-1 tvg-name="無線財經資訊台海外版" tvg-logo="https://www.hkdtmb.com/png_logo/85.png" group-title="無綫",無線財經資訊台海外版
+#EXTINF:-1 tvg-id= tvg-name="無線財經資訊台海外版" tvg-logo="https://www.hkdtmb.com/png_logo/85.png" group-title="無綫",無線財經資訊台海外版
 http://iptv.tvfix.org/hls/financenhk.m3u8
-#EXTINF:-1 tvg-name="ViuTVᴴᴰ" tvg-logo="https://www.hkdtmb.com/png_logo/99.png" group-title="Viu",ViuTVᴴᴰ
+#EXTINF:-1 tvg-id= tvg-name="ViuTVᴴᴰ" tvg-logo="https://www.hkdtmb.com/png_logo/99.png" group-title="Viu",ViuTVᴴᴰ
 http://iptv.tvfix.org/hls/viutv.m3u8
-#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://www.hkdtmb.com/png_logo/99.png" group-title="Viu",ViuTV
+#EXTINF:-1 tvg-id= tvg-name="ViuTV" tvg-logo="https://www.hkdtmb.com/png_logo/99.png" group-title="Viu",ViuTV
 http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
-#EXTINF:-1 tvg-name="ViuTV6" tvg-logo="https://www.hkdtmb.com/png_logo/96.png" group-title="Viu",ViuTV Six
+#EXTINF:-1 tvg-id= tvg-name="ViuTV6" tvg-logo="https://www.hkdtmb.com/png_logo/96.png" group-title="Viu",ViuTV Six
 http://iptv.tvfix.org/hls/viutv6.m3u8
-#EXTINF:-1 tvg-name="Now新聞台" tvg-logo="http://livetv.dnsfor.me/logo/logo_04.png" group-title="Now",Now新聞台
+#EXTINF:-1 tvg-id= tvg-name="Now新聞台" tvg-logo="http://livetv.dnsfor.me/logo/logo_04.png" group-title="Now",Now新聞台
 http://livetv.dnsfor.me:80/channel.4.m3u8
-#EXTINF:-1 tvg-name="Now直播台" tvg-logo="http://livetv.dnsfor.me/logo/logo_03.png" group-title="Now",Now直播台
+#EXTINF:-1 tvg-id= tvg-name="Now直播台" tvg-logo="http://livetv.dnsfor.me/logo/logo_03.png" group-title="Now",Now直播台
 http://livetv.dnsfor.me:80/channel.3.m3u8
-#EXTINF:-1 tvg-name="Now Sports" tvg-logo="http://livetv.dnsfor.me/logo/logo_12.png" group-title="Now",Now Sports
+#EXTINF:-1 tvg-id= tvg-name="Now Sports" tvg-logo="http://livetv.dnsfor.me/logo/logo_12.png" group-title="Now",Now Sports
 http://livetv.dnsfor.me:80/channel.12.m3u8
 
 
-#EXTINF:-1 tvg-name="有線新聞台" tvg-logo="https://rb.gy/e83tun" group-title="Cable",有線新聞台
+#EXTINF:-1 tvg-id= tvg-name="有線新聞台" tvg-logo="https://rb.gy/e83tun" group-title="Cable",有線新聞台
 https://uc6.i-cable.com/liveJoemud_ts/_definst_/4-3b9423a2-1643186629-1643273209-dcb64fd44ebb6c9f431663cefc26baf7-8d9e0eb72c3bde2_95b-03/freehd209_h.live/playlist.m3u8
-#EXTINF:-1 tvg-name="有線財經資訊台" tvg-logo="https://rb.gy/gxr0zk" group-title="Cable",有線財經資訊台
+#EXTINF:-1 tvg-id= tvg-name="有線財經資訊台" tvg-logo="https://rb.gy/gxr0zk" group-title="Cable",有線財經資訊台
 https://uc6.i-cable.com/liveJoemud_ts/_definst_/4-3b9423a2-1643188640-1643275220-fe91d5f2658e28473e691f1e855d7034-8d9e0f0216675b7_812-03/freehd208_h.live/playlist.m3u8
-#EXTINF:-1 tvg-name="有線綜合娛樂台" tvg-logo="https://rb.gy/z4axvr" group-title="Cable",有線綜合娛樂台
+#EXTINF:-1 tvg-id= tvg-name="有線綜合娛樂台" tvg-logo="https://rb.gy/z4axvr" group-title="Cable",有線綜合娛樂台
 http://livetv.dnsfor.me/channel.7.m3u8
-#EXTINF:-1 tvg-name="有線直播新聞台" tvg-logo="https://rb.gy/os4eh1" group-title="Cable",有線直播新聞台
+#EXTINF:-1 tvg-id= tvg-name="有線直播新聞台" tvg-logo="https://rb.gy/os4eh1" group-title="Cable",有線直播新聞台
 https://uc6.i-cable.com/liveJoemud_ts/_definst_/4-3b9423a2-1643187265-1643273845-a6f16ddbbcd34039f2c02c3c45afd2fc-8d9e0eced8e9632_6be-03/Stream1/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="香港開電視" tvg-logo="https://www.hkdtmb.com/png_logo/77.png" group-title="Cable",香港開電視
+#EXTINF:-1 tvg-id= tvg-name="香港開電視" tvg-logo="https://www.hkdtmb.com/png_logo/77.png" group-title="Cable",香港開電視
 http://iptv.tvfix.org/hls/opentv.m3u8
 
-#EXTINF:-1 tvg-name="港台電視31" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="香港電台",港台電視31
+#EXTINF:-1 tvg-id= tvg-name="港台電視31" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="香港電台",港台電視31
 http://iptv.tvfix.org/hls/rthk31.m3u8
-#EXTINF:-1 tvg-name="港台電視32" tvg-logo="https://www.hkdtmb.com/png_logo/32.png" group-title="香港電台",港台電視32
+#EXTINF:-1 tvg-id= tvg-name="港台電視32" tvg-logo="https://www.hkdtmb.com/png_logo/32.png" group-title="香港電台",港台電視32
 http://iptv.tvfix.org/hls/rthk32.m3u8
 
-#EXTINF:0,WOWOW Cinema
+#EXTINF:0 tvg-id= tvg-name= tvg-logo= group-title=,WOWOW Cinema
 http://193.160.32.112:9090/hstv.php?id=135
-#EXTINF:0,WOWOW Live
+#EXTINF:0 tvg-id= tvg-name= tvg-logo= group-title=,WOWOW Live
 http://193.160.32.112:9090/hstv.php?id=134
-#EXTINF:0,WOWOW Prime
+#EXTINF:0 tvg-id= tvg-name= tvg-logo= group-title=,WOWOW Prime
 http://193.160.32.112:9090/hstv.php?id=133
 
 
-#EXTINF:-1,TVBS亞洲台
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo= group-title=,TVBS亞洲台
 http://iptv.tvfix.org/hls/tvbs.m3u8
-#EXTINF:-1,TVBS新聞台
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo= group-title=,TVBS新聞台
 http://iptv.tvfix.org/hls/tvbsnews.m3u8
-#EXTINF:-1,美亞電影台(粵語)
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo= group-title=,美亞電影台(粵語)
 http://iptv.tvfix.org/hls/mydy.m3u8
-#EXTINF:-1,美亞電影台(普通話)
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo= group-title=,美亞電影台(普通話)
 http://iptv.tvfix.org/hls/mydy2.m3u8
-#EXTINF:-1,天映經典(粵語)
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo= group-title=,天映經典(粵語)
 http://iptv.tvfix.org/hls/tyjd.m3u8
-#EXTINF:-1,天映經典(普通話)
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo= group-title=,天映經典(普通話)
 http://iptv.tvfix.org/hls/tyjd2.m3u8
-#EXTINF:-1,Animax
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo= group-title=,Animax
 http://iptv.tvfix.org/hls/animax.m3u8
-#EXTINF:-1,Animax(第2聲道)
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo= group-title=,Animax(第2聲道)
 http://iptv.tvfix.org/hls/animax2.m3u8
-#EXTINF:-1,Hands Up Channel
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo= group-title=,Hands Up Channel
 http://iptv.tvfix.org/hls/kid.m3u8
-#EXTINF:-1,Thrill
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo= group-title=,Thrill
 http://iptv.tvfix.org/hls/thrill.m3u8
-#EXTINF:-1,Thrill(第2聲道)
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo= group-title=,Thrill(第2聲道)
 http://iptv.tvfix.org/hls/thrill2.m3u8
-#EXTINF:-1,tvN
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo= group-title=,tvN
 http://iptv.tvfix.org/hls/tvn.m3u8
-#EXTINF:-1,TVB經典台
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo= group-title=,TVB經典台
 http://iptv.tvfix.org/hls/tvbjd.m3u8
-#EXTINF:-1,TVB星河(粵語)
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo= group-title=,TVB星河(粵語)
 http://iptv.tvfix.org/hls/tvbxh.m3u8
-#EXTINF:-1,TVB星河(普通話)
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo= group-title=,TVB星河(普通話)
 http://iptv.tvfix.org/hls/tvbxh2.m3u8
-#EXTINF:-1,TVB功夫台(粵語)
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo= group-title=,TVB功夫台(粵語)
 http://iptv.tvfix.org/hls/tvbkf.m3u8
-#EXTINF:-1,TVB功夫(普通話)
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo= group-title=,TVB功夫(普通話)
 http://iptv.tvfix.org/hls/tvbkf2.m3u8
-#EXTINF:-1,龍祥電影
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo= group-title=,龍祥電影
 http://27.47.68.110:808/hls/38/index.m3u8
-#EXTINF:-1,私人影院
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo= group-title=,私人影院
 http://27.47.68.110:808/hls/57/index.m3u8
-#EXTINF:-1,東森電影
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo= group-title=,東森電影
 http://27.47.68.110:808/hls/58/index.m3u8
-#EXTINF:-1,東森洋片
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo= group-title=,東森洋片
 http://27.47.68.110:808/hls/59/index.m3u8
-#EXTINF:-1,國產電影
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo= group-title=,國產電影
 http://27.47.68.110:808/hls/61/index.m3u8
-#EXTINF:-1,天映經典
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo= group-title=,天映經典
 http://27.47.68.110:808/hls/62/index.m3u8
 
 
